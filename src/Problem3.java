@@ -8,7 +8,7 @@ public class Problem3 {
 
         int result = factorial(4);
 
-        System.out.println(result);
+        System.out.println("결과값 : " + result);
     }
 
     public static int factorial(int n){
